@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Inter;
+  }
+  /* Navbar */
+  .nav {
+    background:linear-gradient(to bottom, #06202B,#B4A599);
+    height: 75px;
+    display: inline-;
+
+  }
+  .nav_logo{
+    padding-top: 20px;
+  }
+  a{
+    text-decoration: none;
+  }
+  
+  .logo {
+
+    color: #ffffff;
+    font-style: extra-bold;
+    font-weight: 1000;
+    padding: 20px 20px 20px 40px;
+    font-size: 25px;
+  }
+  .middle{
+    margin: 25px 0px 20px 20%;
+  }
+  .nav_link {
+    margin-left: 60px;
+    color: #ffffff;
+  }
+  .middle span {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 300;
+  }
+  .middle svg {
+    padding-bottom: 5px;
+  }
+  .left {
+    margin: 15px 0px 0px 15%;
+    width: -20%;
+    
+  }
+  .left button {
+    margin: 10px;
+    width: 80px;
+    border-radius: 8px;
+    border-width: 1px;
+  }
+  .login_btn {
+    background-color: #077A7D;
+  }
+  .login_btn:hover {
+    background-color: #055B5C;
+  }
+  .left span {
+    color: #ffffff;
+    font-size: 15px;
+  }
+  .signup_btn {
+    background-color: #055B5C;
+  }
+  .signup_btn:hover {
+    background-color: #077A7D;
+  }
+  
+  /* Hero Section */
+   
